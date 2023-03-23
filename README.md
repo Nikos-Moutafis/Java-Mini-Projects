@@ -1,1 +1,1 @@
-# Java Mini Projects 
+# Java Mini Projects   on Structured Programming
